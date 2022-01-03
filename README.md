@@ -1,5 +1,5 @@
-# App dummy biometric
-Flutter App
+# Flutter Biometric Authentication with Provider
+Biometric Authentication with Flutter
 [auth_local](https://pub.dev/packages/local_auth) with [provider](https://pub.dev/packages/provider)
 
 Android and iOS only
