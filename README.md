@@ -1,4 +1,14 @@
 # App dummy biometric
+Flutter App
+[auth_local](https://pub.dev/packages/local_auth) with [provider](https://pub.dev/packages/provider)
+
+Android and iOS only
+
+- fingerprint
+- faceid
+- pattern
+- pin
+- password
 
 We show the user if their device is suitable for biometric security.
 We show which biometric security methods are available.
